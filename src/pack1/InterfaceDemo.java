@@ -14,6 +14,7 @@ interface C{
  
 interface D{
 	void sleep();
+	
 }
 
 class Emotions implements A,B,C,D{
