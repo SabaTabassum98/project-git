@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	
 	
 	//String
-	obj.push("Hello");
+	obj.push("Hello im 1");
 	obj.push("Hi");
 	obj.push("Bye");
 	obj.push("Hi");
